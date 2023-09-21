@@ -3770,7 +3770,7 @@ __metadata:
     gm: "npm:^1.25.0"
     google-auth-library: "npm:^8.8.0"
     got: "npm:^13.0.0"
-    graphql: "npm:^16.7.1"
+    graphql: "npm:^16.8.1"
     graphql-http: "npm:^1.19.0"
     graphql-relay: "npm:^0.10.0"
     handlebars: "npm:^4.7.7"
@@ -7584,10 +7584,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:^16.7.1":
-  version: 16.7.1
-  resolution: "graphql@npm:16.7.1"
-  checksum: fa9fd383fb9be6d44dc985b3b3f4c858dbe3dcb10ca74c8f8c85ceb5ceddf57a73b77cea719f702e246a46b48b71ffd34cf939fe3686821650a6bd3d9ba2ce4a
+"graphql@npm:^16.8.1":
+  version: 16.8.1
+  resolution: "graphql@npm:16.8.1"
+  checksum: 7a09d3ec5f75061afe2bd2421a2d53cf37273d2ecaad8f34febea1f1ac205dfec2834aec3419fa0a10fcc9fb345863b2f893562fb07ea825da2ae82f6392893c
   languageName: node
   linkType: hard
 
@@ -11449,7 +11449,7 @@ __metadata:
     eslint-plugin-jsx-a11y: "npm:^6.7.1"
     eslint-plugin-react: "npm:^7.32.2"
     eslint-plugin-react-hooks: "npm:^4.6.0"
-    graphql: "npm:^16.7.1"
+    graphql: "npm:^16.8.1"
     graphql-config: "npm:^5.0.2"
     happy-dom: "npm:^9.20.3"
     husky: "npm:^8.0.3"
